@@ -1,0 +1,1 @@
+Este repositório contém testes automatizados E2E para o site ADOPET, utilizando Cypress. Os testes cobrem funcionalidades como login, cadastro, cadastro de massa de dados, testes da API de mensagens e seus fluxos incorretos. A documentação dos testes é gerada com o Mocha Awesome, garantindo um relatório completo e detalhado.
