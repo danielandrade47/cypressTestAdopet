@@ -1,0 +1,29 @@
+{
+    "usuarios": [
+        {
+            "name": "Peter Jason Quill",
+            "email":"peter.quill@gmail.com",
+            "password": "Senha12345"
+        },
+        {
+            "name": "Gamora Zen Titan",
+            "email":"gamora@gmail.com.br",
+            "password": "Senha123456"
+        },
+        {
+            "name": "Rocket Raccoon",
+            "email":"rocket.raccoon@gmail.com",
+            "password": "Senha1234567"
+        },
+        {
+            "name": "Drax Bautista",
+            "email":"drax.bats@gmail.com.br",
+            "password": "Senha12345678"
+        },
+        {
+            "name": "Groot",
+            "email":"eu_sou_groot@gmail.com",
+            "password": "Senha12345679"
+        }
+    ]
+}
